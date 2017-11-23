@@ -1,0 +1,5 @@
+-> derecha
+<- izquierda
+k correr más rápido
+l saltar
+(easter egg) q moonwalk
